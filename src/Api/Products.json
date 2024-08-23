@@ -1,0 +1,284 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Summer Floral Dress",
+        "category": "Dresses",
+        "price": 39.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Red", "Blue", "Yellow"],
+        "description": "A beautiful floral dress perfect for summer outings.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYGhsI-BH3ybAHKlXphpOtkXFkgAJVO8I-mOH-lngLmjiNrsKLbp-jdwYwEAQVt3GCvFLir2QaLACcl9faKrarFgkXD0s_OeEIUV2_CjqQ-A4EkJNLi_AVlQ"
+        ],
+        "in_stock": true,
+        "ratings": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Classic Black T-Shirt",
+        "category": "Tops",
+        "price": 19.99,
+        "sizes": ["XS", "S", "M", "L", "XL"],
+        "colors": ["Black", "White"],
+        "description": "A classic black t-shirt that goes well with any outfit.",
+        "images": [
+          "https://www.trueclassictees.com/cdn/shop/files/4000_BLACK_2.jpg?v=1710264591"
+        ],
+        "in_stock": true,
+        "ratings": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Denim Jacket",
+        "category": "Outerwear",
+        "price": 49.99,
+        "sizes": ["M", "L", "XL"],
+        "colors": ["Blue", "Dark Blue"],
+        "description": "A stylish denim jacket for a cool casual look.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSheCQbyExxtFAYI9jkwyb9ak2KgPPHbM7gvdS4CRHAQ4HvkEZG1eq1g0xIUW_q_nTYF97cebvMPO8YNhuMJunoC8mNQesntJy89uOPd6ueYHwEnHOo2EU8jg"
+        ],
+        "in_stock": false,
+        "ratings": 4.3
+      },
+      {
+        "id": 4,
+        "name": "Slim Fit Jeans",
+        "category": "Bottoms",
+        "price": 34.99,
+        "sizes": ["28", "30", "32", "34", "36"],
+        "colors": ["Light Blue", "Dark Blue"],
+        "description": "Comfortable slim-fit jeans for everyday wear.",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3hRIPvGCRdh8jcKwn2_26aV1f2077hlENl2Pw5IVwzP5B6CViC1_anpNbg-r5Ff2XAUcN6HEJezuqAbPpQOJyDHNsrJPwSQcKDDmXPEm4"
+        ],
+        "in_stock": true,
+        "ratings": 4.7
+      },
+      {
+        "id": 5,
+        "name": "Casual White Shirt",
+        "category": "Tops",
+        "price": 25.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["White"],
+        "description": "A casual white shirt that's a wardrobe essential.",
+        "images": [
+          "https://rukminim2.flixcart.com/image/850/1000/kfoapow0-0/shirt/g/j/w/m-hlsh008832-highlander-original-imafw2ggmtfqgqkj.jpeg?q=90&crop=true"
+        ],
+        "in_stock": true,
+        "ratings": 4.6
+      },
+      {
+        "id": 6,
+        "name": "Leather Jacket",
+        "category": "Outerwear",
+        "price": 89.99,
+        "sizes": ["M", "L", "XL", "XXL"],
+        "colors": ["Black", "Brown"],
+        "description": "A stylish leather jacket for a bold look.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTY36HC1VAzYKWOL26mmWo71jRFQ59lsLWdmM1QkbDmHxHgplXpv4c6wO1JnvRSy-enP1wFVyNwWrZ__NOM8U8af-Dd0wT0xKCLZMiEx9A"
+        ],
+        "in_stock": true,
+        "ratings": 4.9
+      },
+      {
+        "id": 7,
+        "name": "Knit Sweater",
+        "category": "Tops",
+        "price": 29.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Gray", "Navy", "Burgundy"],
+        "description": "A cozy knit sweater for chilly days.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ5vcgEDSLZV_DOHwb5x4AV6JGnoM_9jWjr7kCK2bVDOUer5CinF8Be4BfKvL39aSELTK55mjVjL_2usFdaqhN5YvIUWMz58yxyDo_iFGihlQAvwVy84Unb"
+        ],
+        "in_stock": true,
+        "ratings": 4.4
+      },
+      {
+        "id": 8,
+        "name": "Chinos",
+        "category": "Bottoms",
+        "price": 31.99,
+        "sizes": ["30", "32", "34", "36", "38"],
+        "colors": ["Khaki", "Navy", "Olive"],
+        "description": "Versatile chinos for both casual and formal occasions.",
+        "images": [
+          "https://cobbitaly.com/cdn/shop/products/NDVN1587OLIVE_4.jpg?v=1722495117&width=1080"
+        ],
+        "in_stock": true,
+        "ratings": 4.7
+      },
+      {
+        "id": 9,
+        "name": "Plaid Button-Down Shirt",
+        "category": "Tops",
+        "price": 22.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Red", "Green", "Blue"],
+        "description": "A classic plaid shirt for a relaxed style.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRpPw4J4pKDQWaamEPhoAL9--1OzpcjSqKu1ruH3NjEtP2Zl1ffjxuWimzR7MRvmsZ2ouVIQ6cLSeZhCRqbvFwef6m-L21-bYvYX6HQNlHHDY86Wq-BouM52g"
+        ],
+        "in_stock": false,
+        "ratings": 4.2
+      },
+      {
+        "id": 10,
+        "name": "Pencil Skirt",
+        "category": "Bottoms",
+        "price": 24.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Black", "Gray"],
+        "description": "A sleek pencil skirt for a professional look.",
+        "images": [
+          "https://images.meesho.com/images/products/427532858/7kd4z_1200.jpg"
+        ],
+        "in_stock": true,
+        "ratings": 4.5
+      },
+      {
+        "id": 11,
+        "name": "Graphic Tee",
+        "category": "Tops",
+        "price": 17.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Black", "White"],
+        "description": "A trendy graphic tee for a casual day out.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJ7rZxBPzPFClq0zMgeBTbqKb2mjXbmeVqbU2APh2iGIjUnu6MOAltLdwdjJL6bV-HhRiSPpUqhxJj5c0pYg_Tg07UjYh75btuqKKKnIbF1AT3ih5SP23T"
+        ],
+        "in_stock": true,
+        "ratings": 4.3
+      },
+      {
+        "id": 12,
+        "name": "Maxi Dress",
+        "category": "Dresses",
+        "price": 42.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Navy", "Burgundy", "Green"],
+        "description": "An elegant maxi dress for special occasions.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSrjYOWQsjY_6pmKJyyCt2ifAmIdkCWMgtPhPFHRDeVUNlgV01ChE63XJj6I6dhbEtoJRIB40Evn1QINcjr-y8tkKiEFvy5cuaDtjXzMTuw"
+        ],
+        "in_stock": true,
+        "ratings": 4.8
+      },
+      {
+        "id": 13,
+        "name": "Bomber Jacket",
+        "category": "Outerwear",
+        "price": 59.99,
+        "sizes": ["M", "L", "XL"],
+        "colors": ["Olive", "Black"],
+        "description": "A cool bomber jacket for a modern look.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYMR44NyBvmw03_a_NChuXBDb720rS-f9ht6cmlO-AvzEixlKm17LL9WPQBZPc43KH5yIs1yHAprd4Ex6MxLBvvjjOGInPlf-J3mP_yMjoIN2y0Llm8d3R4w"
+        ],
+        "in_stock": true,
+        "ratings": 4.6
+      },
+      {
+        "id": 14,
+        "name": "Cargo Pants",
+        "category": "Bottoms",
+        "price": 28.99,
+        "sizes": ["30", "32", "34", "36"],
+        "colors": ["Khaki", "Green"],
+        "description": "Comfortable cargo pants with plenty of pockets.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnKo6YXbPcXE8e38drYDV7PeifkoTvw93BV5P05Ic2-JMg-CxzJdVPpL1oQBpWsQMGuxL6m9FAjJT9x4ccYBLkKpUafRdC-McpmhGlK3JXc9xUFpSP40k5"
+        ],
+        "in_stock": true,
+        "ratings": 4.4
+      },
+      {
+        "id": 15,
+        "name": "Wrap Dress",
+        "category": "Dresses",
+        "price": 44.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Red", "Blue", "Black"],
+        "description": "A flattering wrap dress for any body type.",
+        "images": [
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRs8MtGdjPkWJG9UY7LE-BVPW5n0AwxkFtz8WZ1NjMVSlWBH6IeAG40ZMEbpSgnTAoT81Sx49aIYh12yALRmcMP5fArJsYSqFaWTBC0vOY"
+        ],
+        "in_stock": false,
+        "ratings": 4.7
+      },
+      {
+        "id": 16,
+        "name": "Hoodie",
+        "category": "Tops",
+        "price": 29.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Gray", "Black", "Navy"],
+        "description": "A cozy hoodie for casual wear.",
+        "images": [
+          "https://images.meesho.com/images/products/350849663/wt2pk_1200.jpg"
+        ],
+        "in_stock": true,
+        "ratings": 4.8
+      },
+      {
+        "id": 17,
+        "name": "Corduroy Pants",
+        "category": "Bottoms",
+        "price": 35.99,
+        "sizes": ["30", "32", "34", "36"],
+        "colors": ["Brown", "Green"],
+        "description": "Stylish corduroy pants for a vintage look.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2K8jl1UYrgChSiSyf96Uyrp0IBNKbB_j5seLXfNDX_46MkH-6qgHP7uw7KTWW6ULd5dvg6IxVtAElgH_1S1Af4NufqakuSradWrv8sUg"
+        ],
+        "in_stock": true,
+        "ratings": 4.5
+      },
+      {
+        "id": 18,
+        "name": "Blazer",
+        "category": "Outerwear",
+        "price": 79.99,
+        "sizes": ["M", "L", "XL"],
+        "colors": ["Navy", "Gray"],
+        "description": "A sharp blazer for formal occasions.",
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJai-pTUBuS-jUXl0VKXAZE1soImr9p0TqgE0ycz5D4S0d-hT2quJjywHRi7DVf4suEIJ8qDal04EmtYUH5Ql0ohODD95-Y1eNOQ8cgfA"
+        ],
+        "in_stock": true,
+        "ratings": 4.9
+      },
+      {
+        "id": 19,
+        "name": "Peacoat",
+        "category": "Outerwear",
+        "price": 99.99,
+        "sizes": ["M", "L", "XL", "XXL"],
+        "colors": ["Black", "Navy"],
+        "description": "A classic peacoat for a timeless look.",
+        "images": [
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRc9qj-h8MLWn-3lr0LV8JiPKaXUI-Y9c7TqEcO8NN6cbxt_QIOPolD3ZDP2OipCRYJyOndmrQrnFFDRG3xyAsf_uO9wD78bnCqGUfOuaE"
+        ],
+        "in_stock": true,
+        "ratings": 4.7
+      },
+      {
+        "id": 20,
+        "name": "Puffer Jacket",
+        "category": "Outerwear",
+        "price": 69.99,
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Red", "Black", "Blue"],
+        "description": "A warm puffer jacket for winter days.",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTf_6o4H-6bt2r63fT5-sIOf5KBi-IAMSZg3fuRzTmDeJx_Ja3PBBdPMcZ9N7AJHYGfonBJ_60B8fR0LwdX_Rd3KkkSucxODMaYtAi7MHeG"        ],
+        "in_stock": true,
+        "ratings": 4.8
+      }
+    ]
+  }
+  

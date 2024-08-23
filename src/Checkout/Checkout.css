@@ -1,0 +1,50 @@
+.Summary_product-price ul{
+list-style-type: none;
+}
+.card_details{
+    border: 1px solid #e9e9e9;
+    margin-bottom: 30px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.Summary_product-price ul li{
+    margin-bottom: 10px;
+}
+.delivery_method ul, .payment_method ul, .address_list{
+    list-style-type: none;
+}
+.payment_method ul{
+    display: flex;
+    flex-direction: column;
+}
+.card_details h5{
+    color: #192024;
+    font-weight: 600;
+    font-size: 18px;
+}
+.card_details p, .card_details label{
+    font-size: 14px;
+    color: #192024;
+}
+.billing_details input.form-control{
+    padding: 14px 16px;
+}
+.card_details ul li label{
+    text-indent: 3px;
+    cursor: pointer;
+}
+.card_details ul li{
+    display: flex;
+    align-items: center;
+}
+.order_btn{
+    background: #043530;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+@media screen and (max-width:767px) {
+    .address_list{
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,17 @@
+.product_details h1{
+    color: #192024;
+    font-size: 30px;
+    font-weight: 700;
+}
+.single_img{
+    height: 500px;
+    object-fit: contain;
+    background: #ececec;
+    border: 1px solid #ddd;
+}
+.addcart_btn{
+    padding: 10px 34px;
+    background: #043530;
+    color: #fff;
+    border: 2px solid #043530;
+}

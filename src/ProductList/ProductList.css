@@ -1,0 +1,118 @@
+.full_width-title{
+    background: #E1F3EF;
+    padding: 24px 0;
+    color: #043530;
+}
+.product_filter{
+    padding: 24px;
+    background-color: #f7f7f8;
+    border: 1px solid #e9e9e9;
+    border-radius: 5px;
+    position: sticky;
+    top: 30px;
+}
+.product_filter .filter_base{
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 14px;
+    padding-bottom: 12px;
+}
+.product_filter .filter_base h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #727272;
+}
+
+.horizontal-slider {
+    width: 100%;
+    height: 10px;
+    background: #ddd;
+    margin: 20px 0;
+}
+
+.slider-thumb {
+    height: 30px;
+    width: 30px;
+    background: #043530;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+    position: relative;
+    top: -9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.slider-track {
+    background: #007bff;
+}
+.product_filter .filter_base ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.control input, .size_list input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+.control_indicator {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    height: 20px;
+    width: 20px;
+    background: #e6e6e6;
+}
+.control{
+    padding-left: 28px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.control input:checked ~ .control_indicator {
+    background: #3AA69A;
+}
+.control_indicator:after {
+    content: '';
+    position: absolute;
+    display: none;
+}
+.control input:checked ~ .control_indicator:after {
+    display: block;
+}
+.control .control_indicator:after {
+    left: 8px;
+    top: 4px;
+    width: 5px;
+    height: 10px;
+    border: solid #fff;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+.size_list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.size_list label{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    color: #454545;
+    cursor: pointer;
+}
+.size_list input:checked ~ .active_color{
+    background: #3AA69A;
+}
+.active_color{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 1px solid #ddd;
+}
